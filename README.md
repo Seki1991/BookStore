@@ -23,5 +23,7 @@ It allows commands:
 This program uses Python with modules SQLite3 and tkinter. Ensure you have them installed before continuing.
 
 $ git clone https://github.com/Seki1991/BookStore
+
 $ cd BookStore
+
 $ python frontend.py
