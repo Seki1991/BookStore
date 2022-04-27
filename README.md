@@ -2,7 +2,7 @@
 Bookstore is a simple program written completely in Python. 
 Main purpose of this program is to easily organise user's book library.
 
-It allows commands 
+It allows commands:
 
   1."View all" - enables user to see all books in database;
   
