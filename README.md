@@ -16,3 +16,4 @@ It allows commands:
   
   6."Close" - for closing program.
   
+![BookStore image](https://user-images.githubusercontent.com/104382311/165520620-dd117cf1-e11e-4daa-936a-a61a3f5f1037.png)
