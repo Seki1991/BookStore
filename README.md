@@ -1,5 +1,5 @@
 # BookStore
-Bookstore is a simple program written completely in Python. 
+BookStore is a simple program written completely in Python. 
 Main purpose of this program is to easily organise user's book library.
 
 It allows commands:
