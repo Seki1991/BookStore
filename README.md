@@ -20,7 +20,7 @@ It allows commands:
 
 ## Installation guide
 
-This program uses Python with modules SQLite3 and tkinter. Ensure you have them installed before continuing.
+This program uses Python with modules sqlite3 and tkinter. Ensure you have them installed before continuing.
 
 `$ git clone https://github.com/Seki1991/BookStore`
 
