@@ -27,3 +27,7 @@ $ git clone https://github.com/Seki1991/BookStore
 $ cd BookStore
 
 $ python frontend.py
+
+Note that if you want to run this program without using python, you can build BookStore.exe file with Pyinstaller by inserting code:
+
+$ pyinstaller --onefile frontend.pu
