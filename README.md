@@ -22,11 +22,11 @@ It allows commands:
 
 This program uses Python with modules SQLite3 and tkinter. Ensure you have them installed before continuing.
 
-$ git clone https://github.com/Seki1991/BookStore
+`$ git clone https://github.com/Seki1991/BookStore`
 
-$ cd BookStore
+`$ cd BookStore`
 
-$ python frontend.py
+`$ python frontend.py``
 
 Note that if you want to run this program without using python, you can build BookStore.exe file with Pyinstaller by inserting code:
 
